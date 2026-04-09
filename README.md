@@ -11,8 +11,12 @@ Base pública separada para projetos especiais do Bóris.
 
 ## Hierarquia pensada
 
-- `projetos.wilborgs.com.br/`
-- `projetos.wilborgs.com.br/enap`
+- `projetos.euboris.com.br/`
+- `projetos.euboris.com.br/enap`
+
+## Link provisório publicado
+
+- `https://boris-tools-boris-projetos.valwa8.easypanel.host/`
 
 ## Como servir localmente
 
