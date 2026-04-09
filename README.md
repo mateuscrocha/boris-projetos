@@ -20,3 +20,12 @@ Base pública separada para projetos especiais do Bóris.
 cd /Users/eu.rochamateus/Documents/Codex/AgentOS/spaces/boris/areas/produto/workspaces/boris-projetos
 python3 -m http.server 8088
 ```
+
+## Deploy com Docker
+
+Este repositório já inclui:
+
+- `Dockerfile`
+- `.dockerignore`
+
+Para plataformas como Easypanel, basta selecionar a opção `Dockerfile`.
