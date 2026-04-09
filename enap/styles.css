@@ -178,6 +178,11 @@ a {
   background: rgba(255, 255, 255, 0.72);
 }
 
+.status-chip-link {
+  text-decoration: none;
+  background: rgba(255, 255, 255, 0.92);
+}
+
 .site-nav {
   display: flex;
   align-items: center;
@@ -267,6 +272,17 @@ a {
   font-size: 0.92rem;
   line-height: 1.65;
   color: var(--text-secondary);
+}
+
+.workspace-home-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  width: fit-content;
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--blue);
+  text-decoration: none;
 }
 
 .workspace-label {
